@@ -148,3 +148,10 @@ main {
   font-size: 16px;
   color: #757575;
 }
+/* Resume styles */
+.resume {
+  margin-top: 130px;
+}
+.resume-content {
+  display: flex;
+}
