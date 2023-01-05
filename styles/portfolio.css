@@ -106,3 +106,19 @@ main {
   color: #757575;
   margin-bottom: 30px;
 }
+.about-info-container {
+  display: flex;
+  gap: 50px;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.about .info-title {
+  font-size: 20px;
+  color: #757575;
+}
+.about .info-description {
+  font-weight: 700;
+  color: #474747;
+  font-size: 20px;
+}
